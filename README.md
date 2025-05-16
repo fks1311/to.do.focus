@@ -1,5 +1,5 @@
 ## to•do•focus
-
+![스크린샷 2025-04-16 17 36 02](https://github.com/user-attachments/assets/dad74ab3-2db9-4d21-a672-ca4aa2bca791)
 [VIEW LIVE PROJECT →](https://to-do-focus.netlify.app/)
 
 ## Introduction
