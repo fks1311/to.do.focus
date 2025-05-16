@@ -1,5 +1,7 @@
 ## to•do•focus
-<img width="1499" alt="스크린샷 2025-05-16 17 52 18" src="https://github.com/user-attachments/assets/3f397e3a-c260-49e6-9584-dbae3e90ef5a" />
+
+<img width="1481" alt="스크린샷 2025-05-16 17 53 53" src="https://github.com/user-attachments/assets/fa1a9200-b7c1-4754-a4bc-e4f7637b039c" />
+
 [VIEW LIVE PROJECT →](https://to-do-focus.netlify.app/)
 
 ## Introduction
